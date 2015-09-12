@@ -1,0 +1,13 @@
+<snippet>
+<tabTrigger>switch</tabTrigger>
+<scope>source.js</scope>
+<content>
+<![CDATA[
+switch(${1:[thing]}){
+	case '${2:[first_case]}'
+		${3:[first_case_content]}
+		break;
+}
+]]>
+</content>
+</snippet>
