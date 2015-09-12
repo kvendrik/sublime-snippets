@@ -1,5 +1,5 @@
 <snippet>
-<tabTrigger>forl</tabTrigger>
+<tabTrigger>forc</tabTrigger>
 <content>
 <![CDATA[
 for(var ${1:[varName]} = 0, ${2:[things]}Count = ${2:[things]}.length; ${1:[varName]} < ${2:[things]}Count; ${1:[varName]}++){
